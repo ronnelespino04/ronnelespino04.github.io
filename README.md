@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minimalist Website</title>
+    <title>Island Theme Website</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Minimalist Website</h1>
+        <h1>Island Theme Website</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
@@ -20,16 +20,16 @@
     </header>
     <main>
         <section id="home">
-            <h2>Welcome to Our Minimalist Site</h2>
-            <p>This is an example of a minimalist website design.</p>
+            <h2>Welcome to Our Island Theme Site</h2>
+            <p>This is an example of a website with an island background.</p>
         </section>
         <section id="about">
             <h2>About Us</h2>
-            <p>We believe in simplicity and clarity.</p>
+            <p>We believe in simplicity and the beauty of nature.</p>
         </section>
         <section id="services">
             <h2>Our Services</h2>
-            <p>We offer a range of minimalist design solutions.</p>
+            <p>We offer a range of island-themed experiences.</p>
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
@@ -37,7 +37,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Minimalist Website. All rights reserved.</p>
+        <p>&copy; 2024 Island Theme Website. All rights reserved.</p>
     </footer>
 </body>
 </html>
